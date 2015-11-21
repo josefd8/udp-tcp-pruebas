@@ -1,0 +1,12 @@
+<config>
+ <localIP></localIP>
+ <localPort></localPort>
+ <remoteIP></remoteIP>
+ <remotePort></remotePort>
+ <type>TCP</type>
+ <mode>Server</mode>
+ <dataType>Binay</dataType>
+ <format>HEX to DEC</format>
+ <sendData></sendData>
+ <dataTypeRec>Binay</dataTypeRec>
+ </config>
